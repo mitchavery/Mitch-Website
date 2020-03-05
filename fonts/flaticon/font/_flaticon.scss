@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 05/03/2020 01:21
+    Creation date: 05/03/2020 09:14
     */
 
     @font-face {
@@ -39,6 +39,10 @@
 
     .flaticon-search:before { content: "\f100"; }
 .flaticon-adobe-reader-symbol:before { content: "\f101"; }
+.flaticon-school:before { content: "\f102"; }
+.flaticon-server:before { content: "\f103"; }
     
     $font-Flaticon-search: "\f100";
     $font-Flaticon-adobe-reader-symbol: "\f101";
+    $font-Flaticon-school: "\f102";
+    $font-Flaticon-server: "\f103";

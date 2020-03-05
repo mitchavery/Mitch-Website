@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 05/03/2020 01:21
+  	Creation date: 05/03/2020 09:14
   	*/
 
 @font-face {
@@ -31,10 +31,11 @@
   text-transform: none;
   line-height: 1;
 
-  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 .flaticon-search:before { content: "\f100"; }
 .flaticon-adobe-reader-symbol:before { content: "\f101"; }
+.flaticon-school:before { content: "\f102"; }
+.flaticon-server:before { content: "\f103"; }
